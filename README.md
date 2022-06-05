@@ -21,7 +21,7 @@ Pesonal
 | ------------- |:-------------:|
 | Name          | Wellson Huang |
 | Phone         | 0800-291252   |
-| School        | NCU           |
+| Address       | Taipei Beitou |
 
 
 Study
