@@ -4,7 +4,6 @@ For this website
 
 - 🔭 I’m currently working on Web Programming
 - 🌱 I’m currently learning MIS
-- 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with algorithm
 - 💬 Ask me about C/C++/java
 - 📫 How to reach me: [My FB](https://www.facebook.com/wellsonhuang).
