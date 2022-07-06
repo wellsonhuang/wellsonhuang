@@ -19,8 +19,8 @@ Pesonal
 
 | About         | Content       |
 | ------------- |:-------------:|
-| Name          | Wellson Huang |
-| Phone         | 0800-291252   |
+| Name          | Wilson Huang |
+| Email         | wellsonhuang888@gmail.com   |
 | Address       | Taipei Beitou |
 
 
