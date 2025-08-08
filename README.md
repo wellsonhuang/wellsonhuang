@@ -1,33 +1,50 @@
-### About me
+# Hi there, I'm Wei-Chen (黃瑋宸) 👋
 
-For this website
+---
 
-- 🔭 I’m currently working on Web Programming
-- 🌱 I’m currently learning MIS
-- 🤔 I’m looking for help with algorithm
-- 💬 Ask me about C/C++/java
-- 📫 How to reach me: [My FB](https://www.facebook.com/wellsonhuang).
-- ⚡ Fun fact:
+###  About Me  
+Engineer with a B.Sc. in Information Management from National Central University (Taiwan), currently pursuing an M.Sc. in Data Science at Texas A&M University (USA). I specialize in NLP, recommendation systems, and RAG technologies.
 
-Pesonal 
+---
 
+##  Featured Projects
 
+### 1. Keyword-based News Recommendation System
+- **Overview**: Extracts keywords using KeyBERT, expands them with Word2Vec, filters summaries via TF-IDF, and personalizes recommendations using user behavior and decay-weighted keyword scoring. K-means clustering enhances content diversity.
+- **Tech Stack**: Python · Flask · SQL/NoSQL · KeyBERT · Word2Vec · TF-IDF · K-means
+- **Highlights**: Streamlined news summarization and personalized delivery based on user interaction patterns.
 
-![This is a alt text.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.zT5zHIKVA94UIOBeQwsaLwHaCa%26pid%3DApi&f=1)
+### 2. Retrieval-Augmented Generation (RAG) System
+- **Overview**: Engineered a RAG pipeline with LangChain and FAISS for vector-based information retrieval, integrated diverse retrievers and a reranker, and benchmarked LLMs (e.g., Falcon-7B, gemma-2-2b) for response fluency and relevance.
+- **Tech Stack**: Python · LangChain · FAISS · Large Language Models (LLMs)
+- **Highlights**: Enhanced LLM accuracy and relevance through optimized retrieval strategies and reranking.
 
+### 3. Campus Tour Chatbot (Internship Project)
+- **Overview**: Developed an interactive campus tour chatbot, leveraging Java Spring Boot for backend APIs, BERT embeddings for text representation, and logistic regression for personalized recommendations.
+- **Tech Stack**: Java Spring Boot · Python · PyTorch (BERT) · scikit-learn
+- **Highlights**: Delivered a dynamic and personalized user experience using advanced NLP and ML models.
 
-| About         | Content       |
-| ------------- |:-------------:|
-| Name          | Wilson Huang |
-| Email         | wellsonhuang888@gmail.com   |
-| Address       | Taipei Beitou |
+---
 
+##  Professional Experience
 
-Study
+- ** AWS Training Partner (Internship)**  
+  Contributed to R&D and technical integration efforts, including materials preparation and educational support for university chatbot projects—enhancing expertise in AI systems deployment and teaching assistance.
 
-1. Web Programming
-2. Algorithm
-3. Database
-4. Programming
-    1. C/C++
-    1. java
+- ** LINE – Platform Technical Integration, E-Commerce Department (Internship)**  
+  Managed API integration and vendor collaboration, resolved technical issues, developed dashboards and FAQs, and led technical discussions—strengthening cross-functional communication and systems integration capabilities.
+
+- ** Teaching Assistant – Taiwan AI Academy**  
+  Supported a large-scale LLM course, instructed students on RAG system implementation, and aided in integrating ChatGPT with RPA workflows to enhance learning outcomes.
+
+---
+
+###  What's Next  
+I am looking forward to leveraging NLP and recommendation system technologies to elevate smart media platforms and optimize news distribution.
+
+---
+
+###  Connect with Me  
+- **LinkedIn**: www.linkedin.com/in/wilson-huang-a327222b6 
+- **Email**: wilsonhuangapply@gmail.com  
+
