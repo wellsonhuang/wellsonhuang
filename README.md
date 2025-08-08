@@ -1,4 +1,4 @@
-# Hi there, I'm Wei-Chen (黃瑋宸) 👋
+# Wei-Chen (黃瑋宸) 
 
 ---
 
