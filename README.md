@@ -28,13 +28,13 @@ Engineer with a B.Sc. in Information Management from National Central University
 
 ##  Professional Experience
 
-###AWS Training Partner (Internship) 
+### AWS Training Partner (Internship) 
   Contributed to R&D and technical integration efforts, including materials preparation and educational support for university chatbot projects—enhancing expertise in AI systems deployment and teaching assistance.
 
-###LINE – Platform Technical Integration, E-Commerce Department (Internship)  
+### LINE – Platform Technical Integration, E-Commerce Department (Internship)  
   Managed API integration and vendor collaboration, resolved technical issues, developed dashboards and FAQs, and led technical discussions—strengthening cross-functional communication and systems integration capabilities.
 
-###Teaching Assistant – Taiwan AI Academy
+### Teaching Assistant – Taiwan AI Academy
   Supported a large-scale LLM course, instructed students on RAG system implementation, and aided in integrating ChatGPT with RPA workflows to enhance learning outcomes.
 
 ---
